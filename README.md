@@ -15,9 +15,11 @@ Before we start, you can take a look at the app:
 
 ## Key Features
 
-* Easily add and remove tasks
-* Local Notifications for user remainders.
-* Want to delete task ? Swipe left.
+- [x] Add, Edit and Delete Task
+- [x] Local Notifications for user remainders.
+- [x] Mark as Done.
+- [x] What else.
+
 
 ## How To Use
 
