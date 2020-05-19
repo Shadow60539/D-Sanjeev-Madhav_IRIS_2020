@@ -55,18 +55,16 @@ The project directory structure is as follows:
 
 ```
 ├── android
+├── assets
+├── fonts
 ├── build
 ├── images
-├── intl.sh
 ├── ios
 ├── lib
-├── local_json
+├── test
 ├── pubspec.lock
 ├── pubspec.yaml
-├── res
-├── svgs
-├── test
-└── todo_list.iml
+
 
 ```
 
