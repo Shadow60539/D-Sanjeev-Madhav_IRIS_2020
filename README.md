@@ -13,6 +13,31 @@ Before we start, you can take a look at the app:
 ![image](images/app.jpg)
 
 
+## Key Features
+
+* Easily add and remove tasks
+* Local Notifications for user remainders.
+* Want to delete task ? Swipe left.
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Shadow60539/D-Sanjeev-Madhav_IRIS_2020.git
+
+# Go into the repository
+$ cd D-Sanjeev-Madhav_IRIS_2020.git
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
+
+
 ### Packages
 
 
