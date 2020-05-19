@@ -83,7 +83,7 @@ svgs | Store images in svg format
 Then the lib directory
 
 
-![image](images/lib.jpg)
+![image](images/lib.png)
 
 
 
