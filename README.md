@@ -6,10 +6,9 @@ is a small, simple and beautiful app，
 It can help you keep track of your daily plans.
 If you happen to have the habit of writing a mission plan, then it must be perfect for you.
 
-Before we start, you can take a look at the demo:
+Before we start, you can take a look at the app:
 
-
-<img width="200" alt="018" src="https://user-images.githubusercontent.com/30992818/63140875-f80da200-c015-11e9-8b14-60d6725620f1.gif"/>
+![image](images/lib.png)
 
 
 ### Packages
