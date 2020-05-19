@@ -85,7 +85,6 @@ Then the lib directory
 
 directory | explain
 ---|---
-
 model | Model layer directory for task_model
 provider | Provider State Management (I could have used _bloc but I'm familiar with providers)
 utils | Custom calendar created by me
