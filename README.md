@@ -8,7 +8,7 @@ If you happen to have the habit of writing a mission plan, then it must be perfe
 
 Before we start, you can take a look at the app:
 
-![image](images/lib.png)
+![image](images/app.jpg)
 
 
 ### Packages
