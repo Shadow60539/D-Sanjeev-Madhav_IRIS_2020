@@ -83,7 +83,7 @@ svgs | Store images in svg format
 Then the lib directory
 
 
-![image](https://user-images.githubusercontent.com/30992818/62599609-41c40180-b91f-11e9-81a2-dd297c8c56aa.png)
+![image](images/lib.jpg)
 
 
 
