@@ -1,5 +1,5 @@
 
-[![support](https://img.shields.io/badge/platform-flutter%7Cdart%20vm-ff69b4.svg?style=flat-square)](https://github.com/Shadow60539/D-Sanjeev-Madhav_IRIS_2020)
+[![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=plastic&logo=appveyor)](https://github.com/Shadow60539/D-Sanjeev-Madhav_IRIS_2020)
 
 # Introduction
 
